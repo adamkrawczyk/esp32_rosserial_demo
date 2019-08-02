@@ -108,7 +108,7 @@ After restarting your IDE you should have it working.
 
 # Main code
 
-If we have husarnet setuped we can create new sketch for our arduino project:
+If we have husarnet set up we can create new sketch for our arduino project:
 
 1. In your sketchbook create new directory called esp32_rosserial_demo
 2. In this folder create file called esp32_rosserial_demo.ino
@@ -133,7 +133,7 @@ Now you have to make this code customized. To make it working you have to change
 
 Now you have to customize our esp code.  
 
-In lines `16-17` change host names to aproppirate
+In lines `16-17` change host names to appropriate
 ```
 const char* hostNameESP = "****"; 
 const char* hostNameComputer = "*****";
@@ -200,7 +200,3 @@ If you type `rostopic list` and `rostopic echo /esp_husarnet` the following data
 
 
 Of course that is a simple demo showing you how to integrate  microcontrollers and ROS computers over the internet. Now you know how to use affordable Wi-Fi microcontrollers providing for example sensor data to the the robotic system based on ROS.
-
-# husarnet na esp 
-# parametry husarnetu na esp
-# Edycja kodu na esp
