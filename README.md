@@ -20,7 +20,7 @@ sudo husarnet websetup
 
 You will need to login/sign-up and then you will be presented with the following dialog:
 
-![add_husarnet_device](https://user-images.githubusercontent.com/29305346/62304672-bfe75a80-b47e-11e9-97e6-dd625a872ba6.png)
+![add_husarnet_device](https://user-images.githubusercontent.com/29305346/62351992-55c6c800-b507-11e9-9568-86df90eba6d1.png)
 
 You can create a new network or join existing one (if you already have one before). All devices should be connected to some Husarnet network - by default, only devices in the same network are able to communicate.
 
@@ -127,7 +127,7 @@ Now you have to make this code customized. To make it working you have to change
 3. Click Add element button and go to the join code tab
 4. Copy your join code
 
-![add_husarnet_device](https://user-images.githubusercontent.com/29305346/62351992-55c6c800-b507-11e9-9568-86df90eba6d1.png)
+![husarnet_join_code](https://user-images.githubusercontent.com/29305346/62353388-d9ce7f00-b50a-11e9-9359-df9eb8dbfaf9.png)
 
 ### Customize code
 
