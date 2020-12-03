@@ -43,6 +43,7 @@ class WiFiHardware {
     void init() {
       // do your initialization here. this probably includes TCP server/client setup
       Serial.printf("WiFiHardware: init, hostname = %s, port = %d\r\n", hostNameComputer, port);
+      delay(5000);
       while (! client.connect(hostNameComputer, port)) {
         Serial.printf("Waiting for connection\r\n");
         delay(500);
